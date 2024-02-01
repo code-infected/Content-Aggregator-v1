@@ -1,3 +1,5 @@
+The source code is temporarly removed for validation!
+
 # Content Aggregator
 
 Content Aggregator is a web application built with Flask that allows users to aggregate content from different sources. It collects web content, media content, and applications from online sources for reuse or resale purposes.
